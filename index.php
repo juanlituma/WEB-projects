@@ -1,3 +1,5 @@
+//create databse. Do onot run twice
+
 <?php
 $db_server = "localhost";
 $db_user ="root";
